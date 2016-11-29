@@ -1,0 +1,106 @@
+Enter the Number of Nodes in the Graph: 6
+
+
+Enter the Binary Relation for the Graph (Enter a number out of bounds to quit):
+
+1 2
+1 5
+2 1
+2 3
+3 2
+3 4
+4 3
+4 5
+5 1
+5 4
+7 7
+
+Adjacency Matrix Menu
+---------------------
+[1] Print the Adjacency Matrix
+[2] Determine if there are any Isolated Nodes
+[3] Determine the Degree of a Node
+[4] Determine if an Euler Path Exists
+[5] Determine if One Node is Adjacent to Another
+[6] Quit
+
+1
+
+0 1 0 0 1 0
+1 0 1 0 0 0
+0 1 0 1 0 0
+0 0 1 0 1 0
+1 0 0 1 0 0
+0 0 0 0 0 0
+Adjacency Matrix Menu
+---------------------
+[1] Print the Adjacency Matrix
+[2] Determine if there are any Isolated Nodes
+[3] Determine the Degree of a Node
+[4] Determine if an Euler Path Exists
+[5] Determine if One Node is Adjacent to Another
+[6] Quit
+
+2
+6 is an isolated node
+
+
+Adjacency Matrix Menu
+---------------------
+[1] Print the Adjacency Matrix
+[2] Determine if there are any Isolated Nodes
+[3] Determine the Degree of a Node
+[4] Determine if an Euler Path Exists
+[5] Determine if One Node is Adjacent to Another
+[6] Quit
+
+3
+
+
+Enter Node:  4
+
+Node 4 degree: 2
+
+
+Adjacency Matrix Menu
+---------------------
+[1] Print the Adjacency Matrix
+[2] Determine if there are any Isolated Nodes
+[3] Determine the Degree of a Node
+[4] Determine if an Euler Path Exists
+[5] Determine if One Node is Adjacent to Another
+[6] Quit
+
+4
+
+
+The Graph has an Euler Path
+
+Adjacency Matrix Menu
+---------------------
+[1] Print the Adjacency Matrix
+[2] Determine if there are any Isolated Nodes
+[3] Determine the Degree of a Node
+[4] Determine if an Euler Path Exists
+[5] Determine if One Node is Adjacent to Another
+[6] Quit
+
+5
+
+
+Enter two nodes: 2 6
+
+
+Node 2 is not adjacent to node 6
+
+
+Adjacency Matrix Menu
+---------------------
+[1] Print the Adjacency Matrix
+[2] Determine if there are any Isolated Nodes
+[3] Determine the Degree of a Node
+[4] Determine if an Euler Path Exists
+[5] Determine if One Node is Adjacent to Another
+[6] Quit
+
+6
